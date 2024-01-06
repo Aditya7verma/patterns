@@ -1,2 +1,2 @@
-Pattern Demo
-This is just a demo
+Pattern Demo,
+This is just a demo.
